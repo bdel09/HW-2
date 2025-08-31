@@ -1,5 +1,5 @@
-#Name:Benjamin Del Barrio
-#Email:benjamin.delbarrio31@myhunter.cuny.edu
+#Name: Benjamin Del Barrio
+#Email: benjamin.delbarrio31@myhunter.cuny.edu
 import turtle               
 wn = turtle.Screen()        
 t = turtle.Turtle()

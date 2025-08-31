@@ -2,7 +2,7 @@
 #Email: benjamin.delbarrio31@myhunter.cuny.edu
 
 import turtle               
-wn = turtle.Screen()        
+wn = turtle.Screen()
 t = turtle.Turtle()
 t.pensize(5)
 t.shape("circle")
@@ -29,3 +29,4 @@ t.forward(300)
 for i in range(2):
   t.right(90)
   t.forward(100)
+wn.exitonclick()
